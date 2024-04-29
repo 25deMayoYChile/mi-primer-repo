@@ -1,0 +1,22 @@
+{
+    "libros": [
+        {
+            "id": 1,
+            "name": "Los 7 habitos de la gente altamente afectiva",
+            "autor": "Stephen R. Covey",
+            "año": "1985"
+        },
+        {
+            "id": 2,
+            "name": "Padre rico, padre pobre",
+            "autor": "Robert Kiyosaki",
+            "año": "1997"
+        },
+        {
+            "id": 3,
+            "title": "La hazaña de Quito",
+            "autor": "Atletico Tucuman",
+            "año": "2017"
+        }
+    ]
+}
